@@ -1,0 +1,15 @@
+.d-flex {
+  display: flex;
+}
+
+.f-wrap {
+  flex-wrap: wrap;
+}
+
+.m-20 {
+  margin: 20px;
+}
+
+.col-gap {
+  grid-column-gap: 22px;
+}

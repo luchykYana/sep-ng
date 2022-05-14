@@ -1,0 +1,12 @@
+.comment {
+  width: 250px;
+  height: 200px;
+  font-size: 16px;
+  padding: 10px;
+  margin-bottom: 22px;
+  border: 2px solid red;
+}
+
+.c-red {
+  color: red;
+}
